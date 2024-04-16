@@ -1,1 +1,3 @@
-# Project-file
+[submodule "pico-lib"]
+	path = pico-lib
+	url = https://gitlab.metropolia.fi/lansk/pico-lib
